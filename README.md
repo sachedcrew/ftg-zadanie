@@ -28,4 +28,4 @@ Footbal Team Game - zadanie rekrutacyjne
 2) Utworzyłbym nowe events dla powiadomień o innych zdarzeniach w aplikacji. 
 3) Zadbałbym o takie funkcjonalności jak: możliwość czytania powiadomień po zalogowaniu, stworzyłbym stronę profilu użytkownika.
 4) Sprawdziłym aplikację pod kontem optymalnych, spójnych rozwiązań oraz napisał testy do utworzonych funkcjonalności.
-5) Poświęciłbym czas na kosmetykę i front-end aplikacji, aby była bardziej intuicyjna, przejrzysta dla użytkownika.
+
