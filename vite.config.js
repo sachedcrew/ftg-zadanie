@@ -8,4 +8,11 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    css: {
+        preprocessorOptions: {
+            scss: {
+                additionalData: `@import "node_modules/bootstrap/scss/bootstrap";`,
+            },
+        },
+    },
 });

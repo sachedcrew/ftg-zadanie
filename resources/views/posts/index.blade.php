@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container mx-auto">
-    <h1 class="text-3xl font-semibold mb-4 mt-3">Lista Wpisów</h1>
+<div class="container mx-auto mt-3">
+    <h1 class="text-3xl font-semibold mb-4">Lista Wpisów</h1>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         @foreach ($posts as $post)
